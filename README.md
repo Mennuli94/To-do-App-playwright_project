@@ -21,7 +21,7 @@ The project includes atomic tests (todo.spec.js) covering:
 ✅ Filtering: Verifying 'Active' vs 'Completed' filters
 ✅ Verification: Asserting visibility and state of todo items
 🏃‍♂️ How to Run
-Clone the repository:
+Clone the repository://github.com/Mennuli94/To-do-App-playwright_project.git
 git clone https:
 Install dependencies:
 npm install
